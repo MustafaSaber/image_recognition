@@ -1,2 +1,2 @@
-# image_recognation
-An Image recognition project
+# Face_recognation
+An face recognition project
