@@ -2,7 +2,7 @@ from sklearn.datasets import load_files
 from keras.utils import np_utils
 import numpy as np
 from keras.preprocessing import image
-# from tqdm import tqdm
+from tqdm import tqdm
 
 from glob import glob
 
@@ -15,7 +15,6 @@ def load_dataset(path):
     print(dog_targets.shape)
     return dog_files, dog_targets
 
-from tqdm import tqdm
 
 def path_to_tensor(img_path):
     # loads RGB image as PIL.Image.Image type
