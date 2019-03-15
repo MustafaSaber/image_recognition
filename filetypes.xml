@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="points" type="PLAIN_TEXT" />
+      <mapping pattern="courps" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
