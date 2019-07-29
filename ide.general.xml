@@ -1,0 +1,6 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="defaultProjectDirectory" value="Ruby" />
+    <option name="showTipsOnStartup" value="false" />
+  </component>
+</application>
